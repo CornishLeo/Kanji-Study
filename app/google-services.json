@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334941922369",
+    "project_id": "kanjistudypractice",
+    "storage_bucket": "kanjistudypractice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334941922369:android:e730e79d3a11dea73192c0",
+        "android_client_info": {
+          "package_name": "com.example.kanjistudypractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHD7u6Q7_MCJE3q6OvboLiWyQRkOkUqcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
