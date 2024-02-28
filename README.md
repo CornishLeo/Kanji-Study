@@ -5,3 +5,5 @@ It allows the user to create an account which holds their progress and allows th
 
 This project is being actively re-developed using Flutter and written in Dart to reach more devices, the new version will address current
 issues faced around asychenous data collection when creating large quizzes.
+
+Main code is found in the master branch of the repository.
